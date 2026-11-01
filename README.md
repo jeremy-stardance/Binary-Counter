@@ -21,3 +21,5 @@ The design uses resistors it ensure the LEDs keep working.
 | Arduino Pro Micro | 1 | 9.33 |
 | LEDs | 1 | 6.68 |
 | Breadboard & Jumper Wires | 1 | 12.44|
+
+I am hoping the jumper wires in the kit will be enough.
