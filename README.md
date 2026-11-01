@@ -9,7 +9,6 @@ It will count up every 250 milliseconds when held.
 # Circuit Design
 
 [Image](https://github.com/jeremy-stardance/Binary-Counter/blob/main/Image/PCB.png)
-
 [Image](https://github.com/jeremy-stardance/Binary-Counter/blob/main/Image/Schematic.png)
 
 The design uses resistors it ensure the LEDs keep working.
